@@ -25,6 +25,9 @@ This new assignment consists of three technical analysis deliverables. You will 
 Deliverable 1: Add Tectonic Plate Data
 Deliverable 2: Add Major Earthquake Data
 Deliverable 3: Add an Additional Map
+! https://github.com/Dybondzy/Mapping_Earthquakes/blob/main/index.html
+! https://github.com/Dybondzy/Mapping_Earthquakes/blob/main/challenge_logic.js
+
 Files
 Use the following links to download the Challenge starter code.
 
@@ -44,12 +47,19 @@ Copy the folders and files from your Earthquakes_past7days branch and add them t
 
 Earthquake_Challenge folder
 index.html
+! https://github.com/Dybondzy/Mapping_Earthquakes/blob/main/index.html
+
 static
 css
 style.css
+! https://github.com/Dybondzy/Mapping_Earthquakes/blob/main/style.css
+
 js
 config.js
 logic.js
+! https://github.com/Dybondzy/Mapping_Earthquakes/blob/main/logic.js
+
+
 Download the tectonic_plate_starter_logic.js file, add it to your js folder, and rename it challenge_logic.js.
 
 In Step 1, add a second layer group variable for the tectonic plate data.
@@ -142,9 +152,15 @@ Upload the Earthquake_Challenge folder with the following folders and files to y
 The Earthquake_Challenge folder
 
 index.html
+! https://github.com/Dybondzy/Mapping_Earthquakes/blob/main/index.html
+
 static
 css
 style.css
+! https://github.com/Dybondzy/Mapping_Earthquakes/blob/main/style.css
+
 js
 challenge_logic.js
+! https://github.com/Dybondzy/Mapping_Earthquakes/blob/main/challenge_logic.js
+
 A README.md that describes the purpose of the repository. Although there is no graded written analysis for this challenge, it is encouraged and good practice to add a brief description of your project.
